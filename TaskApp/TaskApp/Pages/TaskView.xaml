@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskApp.Pages.TaskView"
+             Title="TaskView">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <VerticalStackLayout VerticalOptions="Center" HorizontalOptions="Center" Grid.Column="1">
+            <ListView x:Name="TaskHolder" HeightRequest="400" WidthRequest="600">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.View>
+                                <HorizontalStackLayout>
+                                    <CheckBox IsChecked="{Binding State}"/>
+                                    <StackLayout>
+                                        <HorizontalStackLayout>
+                                            <Label Style="{StaticResource StrikethroughLabelStyle}" Text="Название:" FontSize ="Body"/>
+                                            <Label Style="{StaticResource StrikethroughLabelStyle}" Text="{Binding Name}" FontSize ="Body"/>
+                                        </HorizontalStackLayout>
+                                        <HorizontalStackLayout>
+                                            <Label Style="{StaticResource StrikethroughLabelStyle}" Text="Описание:" FontSize ="Body"/>
+                                            <Label Style="{StaticResource StrikethroughLabelStyle}" Text="{Binding Description}" FontSize ="Body"/>
+                                        </HorizontalStackLayout>
+                                        <HorizontalStackLayout>
+                                            <Label Style="{StaticResource StrikethroughLabelStyle}" Text="Дата и время:" FontSize ="Body"/>
+                                            <Label Style="{StaticResource StrikethroughLabelStyle}" Text="{Binding TaskDate}" FontSize ="Body"/>
+                                        </HorizontalStackLayout>
+                                        <HorizontalStackLayout>
+                                            <Label Style="{StaticResource StrikethroughLabelStyle}" Text="Приоритет:" FontSize ="Body"/>
+                                            <Label Style="{StaticResource StrikethroughLabelStyle}" Text="{Binding Priority}" FontSize ="Body"/>
+                                        </HorizontalStackLayout>
+                                        <HorizontalStackLayout>
+                                            <Label Style="{StaticResource StrikethroughLabelStyle}" Text="Категория:" FontSize ="Body"/>
+                                            <Label Style="{StaticResource StrikethroughLabelStyle}" Text="{Binding Category}" FontSize ="Body"/>
+                                        </HorizontalStackLayout>
+                                        <HorizontalStackLayout>
+                                            <Label Style="{StaticResource StrikethroughLabelStyle}" Text="Состояние:" FontSize ="Body"/>
+                                            <Label Style="{StaticResource StrikethroughLabelStyle}" Text="{Binding State}" FontSize ="Body"/>
+                                        </HorizontalStackLayout>
+                                    </StackLayout>
+                                </HorizontalStackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </VerticalStackLayout >
+
+        <VerticalStackLayout VerticalOptions="Center" HorizontalOptions="Center" Grid.Column="2">
+            <Button Text="Create" Margin="0,5,0,5" Clicked="ToCreatePage"/>
+            <Button Text="Edit" Margin="0,5,0,5" Clicked="ToEditPage"/>
+            <Button Text="Delete" Margin="0,5,0,5" Clicked="DeleteTask"/>
+        </VerticalStackLayout>
+
+    </Grid>
+    
+</ContentPage>

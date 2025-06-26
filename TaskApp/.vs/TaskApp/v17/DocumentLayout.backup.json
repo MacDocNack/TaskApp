@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\TaskApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|c:\\users\\user\\source\\repos\\taskapp\\taskapp\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|c:\\users\\user\\source\\repos\\taskapp\\taskapp\\pages\\createtask.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\pages\\createtask.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|c:\\users\\user\\source\\repos\\taskapp\\taskapp\\connecttoweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\connecttoweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|c:\\users\\user\\source\\repos\\taskapp\\taskapp\\pages\\createtask.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\pages\\createtask.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|c:\\users\\user\\source\\repos\\taskapp\\taskapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|c:\\users\\user\\source\\repos\\taskapp\\taskapp\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|c:\\users\\user\\source\\repos\\taskapp\\taskapp\\pages\\taskview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\pages\\taskview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|c:\\users\\user\\source\\repos\\taskapp\\taskapp\\pages\\edittask.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\pages\\edittask.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|c:\\users\\user\\source\\repos\\taskapp\\taskapp\\pages\\taskview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\pages\\taskview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|c:\\users\\user\\source\\repos\\taskapp\\taskapp\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|c:\\users\\user\\source\\repos\\taskapp\\taskapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75BEDE34-0D17-463D-BA82-0175A0ACDCF4}|TaskApp\\TaskApp.csproj|solutionrelative:taskapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Models\\Task.cs",
+              "RelativeToolTip": "TaskApp\\Models\\Task.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:25:56.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateTask.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Pages\\CreateTask.xaml.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Pages\\CreateTask.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Pages\\CreateTask.xaml.cs",
+              "RelativeToolTip": "TaskApp\\Pages\\CreateTask.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T01:09:05.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditTask.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Pages\\EditTask.xaml.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Pages\\EditTask.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Pages\\EditTask.xaml.cs",
+              "RelativeToolTip": "TaskApp\\Pages\\EditTask.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:35:49.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectToWeb.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\ConnectToWeb.cs",
+              "RelativeDocumentMoniker": "TaskApp\\ConnectToWeb.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\ConnectToWeb.cs",
+              "RelativeToolTip": "TaskApp\\ConnectToWeb.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:53:06.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateTask.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Pages\\CreateTask.xaml",
+              "RelativeDocumentMoniker": "TaskApp\\Pages\\CreateTask.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Pages\\CreateTask.xaml",
+              "RelativeToolTip": "TaskApp\\Pages\\CreateTask.xaml",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-16T22:43:17.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskView.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Pages\\TaskView.xaml",
+              "RelativeDocumentMoniker": "TaskApp\\Pages\\TaskView.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Pages\\TaskView.xaml",
+              "RelativeToolTip": "TaskApp\\Pages\\TaskView.xaml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-16T15:25:51.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Pages\\TaskView.xaml.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Pages\\TaskView.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Pages\\TaskView.xaml.cs",
+              "RelativeToolTip": "TaskApp\\Pages\\TaskView.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T22:43:51.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TaskApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\MauiProgram.cs",
+              "RelativeToolTip": "TaskApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:34:37.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TaskApp\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "TaskApp\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:58:02.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TaskApp\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "TaskApp\\Pages\\MainPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-17T01:04:14.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TaskApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskApp\\TaskApp\\AppShell.xaml",
+              "RelativeToolTip": "TaskApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-17T00:54:29.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|c:\\users\\user\\source\\repos\\taskappweb\\taskappweb\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|solutionrelative:taskappweb\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|c:\\users\\user\\source\\repos\\taskappweb\\taskappweb\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|solutionrelative:taskappweb\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|c:\\users\\user\\source\\repos\\taskappweb\\taskappweb\\classes\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|solutionrelative:taskappweb\\classes\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|c:\\users\\user\\source\\repos\\taskappweb\\taskappweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|solutionrelative:taskappweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|c:\\users\\user\\source\\repos\\taskappweb\\taskappweb\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|solutionrelative:taskappweb\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|c:\\users\\user\\source\\repos\\taskappweb\\taskappweb\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|solutionrelative:taskappweb\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|c:\\users\\user\\source\\repos\\taskappweb\\taskappweb\\taskappweb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|solutionrelative:taskappweb\\taskappweb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|c:\\users\\user\\source\\repos\\taskappweb\\taskappweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|solutionrelative:taskappweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|c:\\users\\user\\source\\repos\\taskappweb\\taskappweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|solutionrelative:taskappweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|c:\\users\\user\\source\\repos\\taskappweb\\taskappweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7EF4A583-9A8F-48D2-BA34-5B4FDB0BE61E}|TaskAppWeb\\TaskAppWeb.csproj|solutionrelative:taskappweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskAppWeb.http",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\TaskAppWeb.http",
+              "RelativeDocumentMoniker": "TaskAppWeb\\TaskAppWeb.http",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\TaskAppWeb.http",
+              "RelativeToolTip": "TaskAppWeb\\TaskAppWeb.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-17T03:27:47.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "TaskAppWeb\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\Models\\Task.cs",
+              "RelativeToolTip": "TaskAppWeb\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:27:33.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskAppWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskAppWeb\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T19:44:15.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TaskAppWeb\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\appsettings.Development.json",
+              "RelativeToolTip": "TaskAppWeb\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T18:31:58.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskAppWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\appsettings.json",
+              "RelativeToolTip": "TaskAppWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T18:31:54.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\Program.cs",
+              "RelativeDocumentMoniker": "TaskAppWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\Program.cs",
+              "RelativeToolTip": "TaskAppWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:43:28.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskAppWeb\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskAppWeb\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:38:42.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\DataStore.cs",
+              "RelativeDocumentMoniker": "TaskAppWeb\\DataStore.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\DataStore.cs",
+              "RelativeToolTip": "TaskAppWeb\\DataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:35:25.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\Classes\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskAppWeb\\Classes\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\Classes\\TaskRepository.cs",
+              "RelativeToolTip": "TaskAppWeb\\Classes\\TaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:28:33.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskAppWeb\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TaskAppWeb\\TaskAppWeb\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "TaskAppWeb\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:25:50.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

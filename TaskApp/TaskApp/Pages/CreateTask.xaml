@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskApp.Pages.CreateTask"
+             Title="Создание задачи">
+    
+    <ScrollView Background="Transparent">
+        <VerticalStackLayout VerticalOptions="Center" HorizontalOptions="Center">
+            <Label Text="Task name"/>
+            <Entry x:Name="TaskName"/>
+            <Label Text="Description (optional)"/>
+            <Entry x:Name="TaskDescription"/>
+            <Label Text="Date and time"/>
+            <HorizontalStackLayout>
+                <DatePicker x:Name="TaskDate"/>
+                <TimePicker x:Name="TaskTime" Format="HH:mm"/>
+            </HorizontalStackLayout>
+            <Label Text="Priority"/>
+            <Picker x:Name="PriorityPicker">
+                <Picker.Items>
+                    <x:String>Высокий</x:String>
+                    <x:String>Средний</x:String>
+                    <x:String>Низкий</x:String>
+                </Picker.Items>
+            </Picker>
+            <Label Text="Category (optional)"/>
+            <Entry x:Name="Category"/>
+            <Button Text="Save Task" Margin="0,30,0,0" Clicked="AddTask"/>
+            <Button Text="Clear all" Margin="0,5,0,0" Clicked="Clear"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
